@@ -5,31 +5,26 @@ Classify the pore images.
 ## Installation
 
 ```
-
 git clone https://github.com/yup8j/DIP_pro2.git
 
 cd DIP_pro2
 
 pip install -r requirements.txt
-
-
 ```
 
 ## Run model
 
 ```
 python pro2.py --testing [your test image folder]
-
 ```
 
 ### Example
 
 ```
-python3 pro2.py --testing testimg
-                               
+python3 pro2.py --testing testimg                               
 ```
 
-Output
+### Output
 
 ```
 testimg/32.jpg pores
