@@ -11,7 +11,7 @@ cd DIP_pro2
 
 pip install -r requirements.txt
 ```
-
+Note: [OpenCV](https://docs.opencv.org/3.4.5/) is required. 
 ## Run model
 
 ```
@@ -41,3 +41,11 @@ testimg/106.jpg pores
 testimg/403.jpg background
 testimg/107.jpg pores
 ```
+
+### Test image
+
+<div align=center>
+
+![32.jpg](testimg/32.jpg)
+
+</div>
