@@ -44,9 +44,10 @@ testimg/107.jpg pores
 
 ### Test image
 
-<div align=center>
-
 32.jpg ![32.jpg](testimg/32.jpg)
 
 104.jpg ![104.jpg](testimg/104.jpg)
-</div>
+
+405.jpg ![405.jpg](testimg/405.jpg)
+
+103.jpg ![103.jpg](testimg/103.jpg)
